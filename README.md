@@ -7,7 +7,7 @@ A personal portfolio website built with **HTML, CSS, and vanilla JavaScript** â€
 ## ðŸ”— Live Demo & Design
 
 - **Live Site:** [https://Mahmud2702.github.io/portfolio](https://Mahmud2702.github.io/portfolio)
-- **Figma Prototype:** [Add your Figma shareable link here]
+
 
 ---
 
